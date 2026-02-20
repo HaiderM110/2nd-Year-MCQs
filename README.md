@@ -122,3 +122,20 @@ This repository contains conceptual MCQs covering **Electromagnetism** and **Ato
 
 * **(A) $0^\circ$**
 * (B) $90^\circ
+* * (C) $45^\circ$
+* (D) $180^\circ$ is not possible.
+
+> **Explanation:** Torque $\tau = NIAB \sin(\theta)$. When the area vector is parallel to the field ($\theta = 0^\circ$), $\sin(0^\circ) = 0$, so torque is zero.
+
+---
+
+### **Q10. Quantization in Bohr's Theory**
+**Question:** Which of the following properties of an electron is quantized in Bohr's theory?
+
+* (A) Linear Velocity
+* (B) Time period of revolution
+* (C) Mass
+* **(D) Angular Momentum**
+
+> **Explanation:** Bohr's 2nd postulate states that $mvr = \frac{nh}{2\pi}$, meaning angular momentum only exists in discrete (quantized) steps.
+
